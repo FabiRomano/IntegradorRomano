@@ -1,12 +1,7 @@
-.row{
-    padding: 2px;
-}
 div{
     text-align: center;
     color: white;
     box-shadow: 10px -4px 10px rgb( 38, 12, 182);
-    margin-top: 10px;
-   
 }
 
 /* etiqueta fotoperfil */
@@ -15,7 +10,7 @@ div{
     position: absolute;
     width: 180px;
     border-radius: 80%;
-    left: 35px;;
+    left: 20px;;
     top: 400px;
     box-shadow: 4px -3px 4px rgb(252, 50, 128);
 
@@ -34,11 +29,10 @@ div{
     }
     }
     
-
-
 /* etiqueta de nombre */
 #nombre{
     font-weight: bold;
-  box-shadow: 10px -4px 10px rgba(252, 50, 128);
-
+    margin-top: 18%;
+    box-shadow: 10px -4px 10px rgba(252, 50, 128)
+   
 }
